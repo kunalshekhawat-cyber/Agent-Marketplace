@@ -3,7 +3,7 @@ spec_format_version: "0.1"
 title: "Untitled Spec"
 artifact_type: "prd"
 spec_revision: 1
-lifecycle_status: draft
+lifecycle_status: approved
 author: "ProductSpec.io"
 created_at: "2026-07-09T00:00:00Z"
 updated_at: "2026-07-09T00:00:00Z"
